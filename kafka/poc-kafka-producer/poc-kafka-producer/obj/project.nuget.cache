@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xyD9ozLMfkcY8LFgNd5M5Y2KHlV5N7e1ubXKC7DUB6VZfNt1n9++VVeeBzxD9I2m5i6ohB5AfoprPYEFYZQHGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adriany.aires.vieira\\Documents\\Projetos-Base\\kafka\\poc-kafka-producer\\poc-kafka-producer\\poc-kafka-producer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adriany.aires.vieira\\.nuget\\packages\\confluent.kafka\\1.8.2\\confluent.kafka.1.8.2.nupkg.sha512",
+    "C:\\Users\\adriany.aires.vieira\\.nuget\\packages\\librdkafka.redist\\1.8.2\\librdkafka.redist.1.8.2.nupkg.sha512",
+    "C:\\Users\\adriany.aires.vieira\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

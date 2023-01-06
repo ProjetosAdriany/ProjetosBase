@@ -1,0 +1,12 @@
+C:\Users\adriany.aires.vieira\Documents\Projetos-Base\CursoOnlineTDD\CursoOnlineTDD\src\CursoOnlineTDD.Dominio\bin\Debug\net5.0\CursoOnlineTDD.Dominio.deps.json
+C:\Users\adriany.aires.vieira\Documents\Projetos-Base\CursoOnlineTDD\CursoOnlineTDD\src\CursoOnlineTDD.Dominio\bin\Debug\net5.0\CursoOnlineTDD.Dominio.dll
+C:\Users\adriany.aires.vieira\Documents\Projetos-Base\CursoOnlineTDD\CursoOnlineTDD\src\CursoOnlineTDD.Dominio\bin\Debug\net5.0\ref\CursoOnlineTDD.Dominio.dll
+C:\Users\adriany.aires.vieira\Documents\Projetos-Base\CursoOnlineTDD\CursoOnlineTDD\src\CursoOnlineTDD.Dominio\bin\Debug\net5.0\CursoOnlineTDD.Dominio.pdb
+C:\Users\adriany.aires.vieira\Documents\Projetos-Base\CursoOnlineTDD\CursoOnlineTDD\src\CursoOnlineTDD.Dominio\obj\Debug\net5.0\CursoOnlineTDD.Dominio.csproj.AssemblyReference.cache
+C:\Users\adriany.aires.vieira\Documents\Projetos-Base\CursoOnlineTDD\CursoOnlineTDD\src\CursoOnlineTDD.Dominio\obj\Debug\net5.0\CursoOnlineTDD.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriany.aires.vieira\Documents\Projetos-Base\CursoOnlineTDD\CursoOnlineTDD\src\CursoOnlineTDD.Dominio\obj\Debug\net5.0\CursoOnlineTDD.Dominio.AssemblyInfoInputs.cache
+C:\Users\adriany.aires.vieira\Documents\Projetos-Base\CursoOnlineTDD\CursoOnlineTDD\src\CursoOnlineTDD.Dominio\obj\Debug\net5.0\CursoOnlineTDD.Dominio.AssemblyInfo.cs
+C:\Users\adriany.aires.vieira\Documents\Projetos-Base\CursoOnlineTDD\CursoOnlineTDD\src\CursoOnlineTDD.Dominio\obj\Debug\net5.0\CursoOnlineTDD.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\adriany.aires.vieira\Documents\Projetos-Base\CursoOnlineTDD\CursoOnlineTDD\src\CursoOnlineTDD.Dominio\obj\Debug\net5.0\CursoOnlineTDD.Dominio.dll
+C:\Users\adriany.aires.vieira\Documents\Projetos-Base\CursoOnlineTDD\CursoOnlineTDD\src\CursoOnlineTDD.Dominio\obj\Debug\net5.0\ref\CursoOnlineTDD.Dominio.dll
+C:\Users\adriany.aires.vieira\Documents\Projetos-Base\CursoOnlineTDD\CursoOnlineTDD\src\CursoOnlineTDD.Dominio\obj\Debug\net5.0\CursoOnlineTDD.Dominio.pdb

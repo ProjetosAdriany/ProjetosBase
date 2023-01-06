@@ -1,0 +1,16 @@
+C:\Users\adriany.aires.vieira\Documents\Projetos-Base\CursoOnlineTDD\CursoOnlineTDD\CursoOnlineTDD\bin\Debug\net5.0\CursoOnlineTDD.exe
+C:\Users\adriany.aires.vieira\Documents\Projetos-Base\CursoOnlineTDD\CursoOnlineTDD\CursoOnlineTDD\bin\Debug\net5.0\CursoOnlineTDD.deps.json
+C:\Users\adriany.aires.vieira\Documents\Projetos-Base\CursoOnlineTDD\CursoOnlineTDD\CursoOnlineTDD\bin\Debug\net5.0\CursoOnlineTDD.runtimeconfig.json
+C:\Users\adriany.aires.vieira\Documents\Projetos-Base\CursoOnlineTDD\CursoOnlineTDD\CursoOnlineTDD\bin\Debug\net5.0\CursoOnlineTDD.runtimeconfig.dev.json
+C:\Users\adriany.aires.vieira\Documents\Projetos-Base\CursoOnlineTDD\CursoOnlineTDD\CursoOnlineTDD\bin\Debug\net5.0\CursoOnlineTDD.dll
+C:\Users\adriany.aires.vieira\Documents\Projetos-Base\CursoOnlineTDD\CursoOnlineTDD\CursoOnlineTDD\bin\Debug\net5.0\ref\CursoOnlineTDD.dll
+C:\Users\adriany.aires.vieira\Documents\Projetos-Base\CursoOnlineTDD\CursoOnlineTDD\CursoOnlineTDD\bin\Debug\net5.0\CursoOnlineTDD.pdb
+C:\Users\adriany.aires.vieira\Documents\Projetos-Base\CursoOnlineTDD\CursoOnlineTDD\CursoOnlineTDD\obj\Debug\net5.0\CursoOnlineTDD.csproj.AssemblyReference.cache
+C:\Users\adriany.aires.vieira\Documents\Projetos-Base\CursoOnlineTDD\CursoOnlineTDD\CursoOnlineTDD\obj\Debug\net5.0\CursoOnlineTDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriany.aires.vieira\Documents\Projetos-Base\CursoOnlineTDD\CursoOnlineTDD\CursoOnlineTDD\obj\Debug\net5.0\CursoOnlineTDD.AssemblyInfoInputs.cache
+C:\Users\adriany.aires.vieira\Documents\Projetos-Base\CursoOnlineTDD\CursoOnlineTDD\CursoOnlineTDD\obj\Debug\net5.0\CursoOnlineTDD.AssemblyInfo.cs
+C:\Users\adriany.aires.vieira\Documents\Projetos-Base\CursoOnlineTDD\CursoOnlineTDD\CursoOnlineTDD\obj\Debug\net5.0\CursoOnlineTDD.csproj.CoreCompileInputs.cache
+C:\Users\adriany.aires.vieira\Documents\Projetos-Base\CursoOnlineTDD\CursoOnlineTDD\CursoOnlineTDD\obj\Debug\net5.0\CursoOnlineTDD.dll
+C:\Users\adriany.aires.vieira\Documents\Projetos-Base\CursoOnlineTDD\CursoOnlineTDD\CursoOnlineTDD\obj\Debug\net5.0\ref\CursoOnlineTDD.dll
+C:\Users\adriany.aires.vieira\Documents\Projetos-Base\CursoOnlineTDD\CursoOnlineTDD\CursoOnlineTDD\obj\Debug\net5.0\CursoOnlineTDD.pdb
+C:\Users\adriany.aires.vieira\Documents\Projetos-Base\CursoOnlineTDD\CursoOnlineTDD\CursoOnlineTDD\obj\Debug\net5.0\CursoOnlineTDD.genruntimeconfig.cache
